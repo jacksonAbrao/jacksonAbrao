@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:02569B&height=200&section=header&text=Olá,%20eu%20sou%20o%20 Jackson Abrão &fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Fundador%20da%20Rocket%20Systems&descAlignY=58&descSize=18" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:02569B&height=200&section=header&text=Olá,%20eu%20sou%20o%20Jackson%20Abrão&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Fundador%20da%20Rocket%20Systems&descAlignY=58&descSize=18" alt="banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=54C5F8&center=true&vCenter=true&width=640&lines=4+anos+criando+apps+Flutter+em+produ%C3%A7%C3%A3o;Apps+financeiros+e+arquitetura+de+micro-frontends;Agora+indo+fundo+em+Kotlin+%26+Swift+%F0%9F%9A%80;Building+native+bridges+for+Flutter" alt="Typing SVG" />
